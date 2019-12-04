@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CSS3 - Controle Snes</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+
+  <body>
+    <input
+      checked
+      type="radio"
+      id="green"
+      class="active-bg input-green"
+      name="color"
+    />
+    <input type="radio" id="blue" class="active-bg input-blue" name="color" />
+    <input
+      type="radio"
+      id="yellow"
+      class="active-bg input-yellow"
+      name="color"
+    />
+    <input type="radio" id="red" class="active-bg input-red" name="color" />
+
+    <main>
+      <section class="joystick center">
+        <div class="animations">
+          <aside class="left-hand">
+            <div class="controler">
+              <button class="left"><i></i></button>
+              <button class="top"><i></i></button>
+              <button class="right"><i></i></button>
+              <button class="bottom"><i></i></button>
+            </div>
+          </aside>
+
+          <div class="body-control">
+            <button></button>
+            <button></button>
+          </div>
+
+          <aside class="right-hand">
+            <div class="controler">
+              <div class="actions group1">
+                <label class="green" for="green"></label>
+                <label class="blue" for="blue"></label>
+              </div>
+              <div class="actions group2">
+                <label class="yellow" for="yellow"></label>
+                <label class="red" for="red"></label>
+              </div>
+            </div>
+          </aside>
+          <div class="l1 backside-buttons">
+            <button></button>
+          </div>
+          <div class="r1 backside-buttons">
+            <button></button>
+          </div>
+
+          <div class="stroke-base"></div>
+        </div>
+      </section>
+      <div class="fio"></div>
+    </main>
+    <div class="colors bg-green"></div>
+    <div class="colors bg-blue"></div>
+    <div class="colors bg-yellow"></div>
+    <div class="colors bg-red"></div>
+    <div class="basecolor"></div>
+  </body>
+</html>
