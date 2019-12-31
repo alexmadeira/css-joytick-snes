@@ -1,10 +1,10 @@
-# CSS3 - Joytick SNES
+# CSS3 - Joystick SNES
 
 Um projeto que desenvolvi para passar o tempo e me divertir.
 
 ## Preview
 
-[![Joytick SNES - Alex Madeira](joytick.alexmadeira.com.br/preview.png)](joytick.alexmadeira.com.br/)
+[![Joystick SNES - Alex Madeira](joystick.alexmadeira.com.br/preview.png)](joystick.alexmadeira.com.br)
 
 ## Começando
 
