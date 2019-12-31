@@ -4,7 +4,7 @@ Um projeto que desenvolvi para passar o tempo e me divertir.
 
 ## Preview
 
-[![Joytick SNES - Alex Madeira](preview.png)](--)
+[![Joytick SNES - Alex Madeira](joytick.alexmadeira.com.br/preview.png)](joytick.alexmadeira.com.br/)
 
 ## Começando
 
